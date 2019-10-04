@@ -15,6 +15,8 @@ always from commons.wikimedia.org.  They may be subject to the licenses
 of those open source projects or of secondary licenses from
 commons.wikimedia.org.
 
+Reference decks are uploaded in odp format and may be updated from time
+to time.
 -------
 
 - File:
@@ -30,3 +32,29 @@ commons.wikimedia.org.
   - https://phabricator.wikimeda.org
   - https://gerrit.wikimedia.org
   - https://wikitech.wikimedia.org
+
+- File:
+  dumps-9-years-compressed.odp
+- Language:
+  English
+- Additional info:
+  reference deck, may be updated from time to time
+
+- File:
+  wmf-mw-db-servers.odp
+- Language:
+  English
+- Additional info:
+  reference deck, may be updated from time to time
+
+- File:
+  salt-trebuchet.pdf
+- Talk:
+  Introduction to Phabricator, Gerrit and Git, as used for Wikimedia projects
+- Date, location:
+  Wikimedia Foundation (remotely), August 2015
+- Language:
+  English
+- Additional info:
+  Salt is no longer used in our infrastructure; this file is for historical
+  value only
